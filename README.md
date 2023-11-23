@@ -36,6 +36,4 @@ Visit https://sigrid-says.com/sigridworkshop and log in with your Sigrid account
 If you don't have a Sigrid account yet, please ask your teacher to create one for you.
 
 -----------
-
-Let's complete the cycle.
-
+[![Publish to Sigrid](https://github.com/THermannsTVC/sigridworkshop/actions/workflows/sigrid-publish.yml/badge.svg)](https://github.com/THermannsTVC/sigridworkshop/actions/workflows/sigrid-publish.yml)

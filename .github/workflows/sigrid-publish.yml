@@ -13,7 +13,7 @@ jobs:
       - name: Sigrid CI
         uses: Software-Improvement-Group/sigridci@main
         with:
-          customer: examplecustomername
+          customer: sigridworkshop
           system: examplesystemname
           publishonly: true
         env:
